@@ -1,0 +1,16 @@
+data structures with c and c++
+Arrays
+Matrix
+Linked List
+stack
+queue 
+trees
+graph
+hashing
+recursion
+sorting
+searching
+--------------------------------------------------------------------------------------------------
+DAta Strucutres refer to the way data is organised in memory during execution of a program 
+
+and many languages do provide us their collections/frameworks/libraries as well .
